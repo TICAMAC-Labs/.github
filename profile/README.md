@@ -3,7 +3,11 @@
 ![TICAMAC Labs — bannière institutionnelle](banner.png)
 
 # TICAMAC GROUP
-### Technologie · Innovation · Formation · Transformation numérique
+### Technological Innovation Center for Africa
+
+**BUILDING A SMARTER TOMORROW**
+
+Technologie · Innovation · Formation · Transformation numérique
 
 **Construire des solutions technologiques utiles, durables et adaptées aux réalités africaines.**
 
@@ -16,6 +20,8 @@
 ---
 
 ## Notre identité
+
+**TICAMAC** signifie **Technological Innovation Center for Africa**.
 
 **TICAMAC Group** est un groupe technologique d'origine camerounaise dont l'ambition est de développer un écosystème intégré de solutions numériques, de formation, de recherche appliquée et de services technologiques.
 
@@ -78,6 +84,8 @@ Les contributions, partenariats techniques et publications sont organisés dans 
 
 ## International overview
 
+**TICAMAC** stands for **Technological Innovation Center for Africa**. Our signature is **BUILDING A SMARTER TOMORROW**.
+
 **TICAMAC Group** is a Cameroon-rooted technology group developing an integrated ecosystem spanning software engineering, digital skills, applied innovation, infrastructure and technology-enabled services.
 
 **TICAMAC-Labs** is a collaborative engineering and experimentation space within this ecosystem. We focus on practical use cases, secure and maintainable systems, accessible technology and long-term local capacity building.
@@ -91,6 +99,6 @@ Our areas of interest include **software development, AI and data, cybersecurity
 <div align="center">
 
 **TICAMAC GROUP**  
-*Technologie au service des ambitions d'aujourd'hui et des possibilités de demain.*
+**BUILDING A SMARTER TOMORROW**
 
 </div>
